@@ -30,7 +30,7 @@ Users should be able to:
 - [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/3-column-preview-card-component)
 - [Live Site URL](https://3-column-preview-card-component-brown.vercel.app/)
 
-### My process
+## My process
 
 ### Built with
 

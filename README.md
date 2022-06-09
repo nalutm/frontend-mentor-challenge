@@ -8,9 +8,9 @@
   - [3-column preview card component](#3-column-preview-card-component)
     - [Screenshot](#screenshot)
     - [Links](#links)
-  - [My process](#my-process)
-    - [Built with](#built-with)
-  - [Author](#author)
+    - [My process](#my-process)
+      - [Built with](#built-with)
+- [Author](#author)
   
 
 ## The challenges
@@ -42,7 +42,7 @@ The users should be able to:
 - Flexbox
 - Mobile-first workflow
 
-### Author
+## Author
 
 - Frontend Mentor - [@nalutm](https://www.frontendmentor.io/profile/nalutm)
 - Linkedin - [Nayara Luiza Moraes](https://www.linkedin.com/in/nayara-luiza-moraes-9a9382b5/)
