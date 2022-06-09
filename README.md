@@ -10,6 +10,7 @@
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
+  - [Author](#author)
   
 
 ## The challenges
@@ -25,12 +26,12 @@ The users should be able to:
 
 #### Screenshot
 
-![image](./screenshot.jpg)
+![image](./3-column-preview-card-component/design/screenshot.png)
 
 #### Links
 
-- [Code URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/3-column-preview-card-component)
+- [Live Site URL](https://3-column-preview-card-component-brown.vercel.app/)
 
 #### My process
 
@@ -40,3 +41,8 @@ The users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+
+### Author
+
+- Frontend Mentor - [@nalutm](https://www.frontendmentor.io/profile/nalutm)
+- Linkedin - [Nayara Luiza Moraes](https://www.linkedin.com/in/nayara-luiza-moraes-9a9382b5/)

@@ -23,14 +23,14 @@ Users should be able to:
 
 ### Screenshot
 
-![image](./screenshot.jpg)
+![image](./design/screenshot.png)
 
 ### Links
 
-- [Code URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/3-column-preview-card-component)
+- [Live Site URL](https://3-column-preview-card-component-brown.vercel.app/)
 
-## My process
+### My process
 
 ### Built with
 
