@@ -1,0 +1,53 @@
+.car-card {
+  padding: 2rem;
+}
+
+.car-card__title {
+  color: var(--gray);
+  font-family: var(--title-font);
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+}
+
+.car-card__img {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 50px;
+  margin-bottom: 2rem;
+  width: 80px;
+}
+
+.car-card__img--sedan {
+  background-image: url(../images/icon-sedans.svg);
+}
+
+.car-card__benefits {
+  color: var(--text-color);
+  font-size: 1rem;
+  line-height: 1.5rem;
+  margin-bottom: 1.75rem;
+}
+
+.button {
+  background-color: var(--gray);
+  border: 1px solid;
+  border-radius: 50px;
+  padding: .9rem 1.5rem;
+  width: 100px;
+}
+
+.button:hover {
+  background-color: transparent;
+  border: 1px solid var(--gray);
+  color: var(--gray);
+  cursor: pointer;
+}
+
+@media screen and (min-width: 1024px) {
+  .car-card__benefits {
+    margin-bottom: 6rem;
+  }
+}

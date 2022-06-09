@@ -1,0 +1,19 @@
+.car-card--luxury {
+  background-color: var(--dark-cyan);
+  border-radius: 0 0 10px 10px;
+}
+
+.car-card__img--luxury {
+  background-image: url(../images/icon-luxury.svg);
+}
+
+.button--luxury {
+  color: var(--dark-cyan);
+}
+
+@media screen and (min-width: 1024px) {
+  .car-card--luxury {
+    border-radius: 0 10px 10px 0;
+  }
+  
+}

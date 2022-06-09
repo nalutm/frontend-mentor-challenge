@@ -1,0 +1,11 @@
+.car-card--suvs {
+  background-color: var(--cyan);
+}
+
+.car-card__img--suvs {
+  background-image: url(../images/icon-suvs.svg);
+}
+
+.button--suvs {
+  color: var(--cyan);
+}

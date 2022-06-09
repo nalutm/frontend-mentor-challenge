@@ -1,0 +1,32 @@
+@import url(_reset.css);
+@import url(_variables.css);
+@import url(_car-card.css);
+@import url(_sedan.css);
+@import url(_suvs.css);
+@import url(_luxury.css);
+
+body {
+  background-color: var(--gray);
+  font-size: 15px;
+  font-weight: 400;
+  font-family: var(--text-font);
+}
+
+.container {
+  padding: 3rem 1rem;
+}
+
+a {
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+}
+
+@media screen and (min-width: 1024px) {
+  .container {
+    display: flex;
+    margin: auto;
+    padding-top: 15vh;
+    width: 80vw;
+  }
+}

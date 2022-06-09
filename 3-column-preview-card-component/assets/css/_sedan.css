@@ -1,0 +1,18 @@
+.car-card--sedan {
+  background-color: var(--orange);
+  border-radius: 10px 10px 0 0;
+}
+
+.car-card__img--sedan {
+  background-image: url(../images/icon-sedans.svg);
+}
+
+.button--sedan {
+  color: var(--orange);
+}
+
+@media screen and (min-width: 1024px) {
+  .car-card--sedan {
+    border-radius: 10px 0 0 10px;
+  }
+}

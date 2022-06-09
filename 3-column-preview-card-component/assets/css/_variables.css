@@ -1,0 +1,11 @@
+:root {
+  --cyan: hsl(184, 100%, 22%);
+  --dark-cyan: hsl(179, 100%, 13%);
+  --orange: hsl(31, 77%, 52%);
+
+  --text-color: hsla(0, 0%, 100%, 0.75);
+  --gray: hsl(0, 0%, 95%);
+
+  --text-font: 'Lexend Deca', sans-serif;
+  --title-font: 'Big Shoulders Display', cursive;
+}
