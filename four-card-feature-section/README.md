@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/3-column-preview-card-component)
-- [Live Site URL](https://frontend-mentor-challenge-pi.vercel.app/)
+- [Live Site URL](https://four-card-feature-section-seven-amber.vercel.app/)
 
 ## My process
 
