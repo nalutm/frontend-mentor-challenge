@@ -5,6 +5,9 @@
 
   --text-color: hsla(0, 0%, 100%, 0.75);
   --gray: hsl(0, 0%, 95%);
+  --dark-blue: hsl(234, 12%, 34%);
+  --grayish-blue: hsl(229, 6%, 66%)
+  --blue: hsl(212, 86%, 64%);
 
   --text-font: 'Lexend Deca', sans-serif;
   --title-font: 'Big Shoulders Display', cursive;

@@ -4,6 +4,7 @@
 @import url(_sedan.css);
 @import url(_suvs.css);
 @import url(_luxury.css);
+@import url(_footer.css);
 
 body {
   background-color: var(--gray);
