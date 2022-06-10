@@ -22,7 +22,9 @@ Users should be able to:
 
 ### Screenshot
 
-![image](./design/screenshot.jpeg)
+<div align="center">
+  <img src="./design/screenshot.jpeg" alt="Screenshot solução design mobile">
+</div>
 
 ### Links
 
