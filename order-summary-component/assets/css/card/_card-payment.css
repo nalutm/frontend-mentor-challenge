@@ -14,7 +14,9 @@
 }
 
 .link-order {
+  color: var(--soft-blue);
   display: block;
+  font-weight: 600;
   margin: 1.5rem 0;
   padding: 1rem 2rem;
 }
