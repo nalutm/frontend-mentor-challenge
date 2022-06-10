@@ -59,14 +59,18 @@ Users should be able to:
 
 
 ### Order summary card solution
+
 #### Screenshot
 
-![image](./order-summary-solution/design/screenshot.png)
+<div align="center">
+  <img src="./order-summary-component/design/screenshot.jpeg" alt="Screenshot solução design mobile">
+</div>
+
 
 #### Links
 
-- [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/order-summary-solution)
-- [Live Site URL](https://frontend-mentor-challenge-pi.vercel.app/)
+- [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/order-summary-component)
+- [Live Site URL](https://frontend-mentor-challenge-tan.vercel.app/)
 
 ## My process
 
