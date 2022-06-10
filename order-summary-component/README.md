@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/order-summary-component)
-- [Live Site URL]()
+- [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/order-summary-component)
+- [Live Site URL](https://frontend-mentor-challenge-tan.vercel.app/)
 
 ## My process
 

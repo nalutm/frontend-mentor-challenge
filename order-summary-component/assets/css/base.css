@@ -8,7 +8,7 @@
 @import url(_footer.css);
 
 body {
-  background: var(--background) url(../images/pattern-background-mobile.svg) no-repeat;
+  background: var(--background) url(../images/pattern-background-mobile.svg) no-repeat center;
   font-family: var(--font-text);
   font-weight: 500;
 }
