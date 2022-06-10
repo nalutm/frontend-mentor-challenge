@@ -52,12 +52,12 @@ Users should be able to:
 
 #### Screenshot
 
-![image](./3-column-preview-card-component/design/screenshot.png)
+![image](./four-card-feature-section/design/screenshot.png)
 
 #### Links
 
-- [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/3-column-preview-card-component)
-- [Live Site URL](https://frontend-mentor-challenge-pi.vercel.app/)
+- [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/four-card-feature-section)
+- [Live Site URL]()
 
 #### My process
 

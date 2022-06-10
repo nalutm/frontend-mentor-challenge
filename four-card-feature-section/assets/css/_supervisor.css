@@ -1,0 +1,7 @@
+.card__img--supervisor {
+  background-image: url(../images/icon-supervisor.svg);
+}
+
+.card--supervisor {
+  border-top-color: var(--cyan);
+}

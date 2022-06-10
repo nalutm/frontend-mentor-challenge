@@ -1,0 +1,7 @@
+.card__img--team-builder {
+  background-image: url(../images/icon-team-builder.svg);
+}
+
+.card--team-builder {
+  border-top-color: var(--red);
+}

@@ -1,0 +1,7 @@
+.card__img--calculator {
+  background-image: url(../images/icon-calculator.svg);
+}
+
+.card--calculator {
+  border-top-color: var(--blue);
+}

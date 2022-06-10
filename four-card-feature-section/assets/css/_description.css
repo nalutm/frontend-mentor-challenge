@@ -1,0 +1,33 @@
+.description {
+  text-align: center;
+}
+
+.description__title--alternative {
+  color: var(--grayish-blue);
+  font-weight: 200;
+  font-size: 1.4rem;
+}
+
+.description__title {
+  color: var(--dark-blue);
+  font-weight: 600;
+  font-size: 1.3rem;
+  display: inline-block;
+  margin: 15px 0 24px;
+}
+
+.description__text {
+  color: var(--dark-blue);
+  font-weight: 200;
+  line-height: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+
+@media screen and (min-width: 1024px) {
+  .description {
+    margin: auto;
+    padding: 24px;
+    width: 30%;
+  }
+}

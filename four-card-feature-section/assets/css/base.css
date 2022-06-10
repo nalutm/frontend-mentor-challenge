@@ -1,0 +1,29 @@
+@import url(_reset.css);
+@import url(_variables.css);
+@import url(_card.css);
+@import url(_cards.css);
+@import url(_supervisor.css);
+@import url(_team-builder.css);
+@import url(_karma.css);
+@import url(_calculator.css);
+@import url(_description.css);
+@import url(_footer.css);
+
+body {
+  background-color: var(--light-gray);
+  color: var(--dark-blue);
+  font-family: var(--text);
+  font-size: 15px;
+}
+
+.container {
+  padding: 58px 24px;
+}
+
+@media screen and (min-width: 1024px) {
+  .container {
+    width: 90%;
+    padding: 0;
+    margin: auto;
+  }
+}

@@ -1,0 +1,7 @@
+.card__img--karma {
+  background-image: url(../images/icon-karma.svg);
+}
+
+.card--karma {
+  border-top-color: var( --orange);
+}
