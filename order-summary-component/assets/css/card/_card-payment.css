@@ -1,0 +1,20 @@
+.order {
+  margin: 0 1rem;
+  text-align: center;
+}
+
+.button {
+  background: var(--button);
+  border-radius: 10px;
+  box-shadow: 0px 20px 20px var(--shadow);
+  color: var(--white);
+  display: block;
+  font-weight: 900;
+  padding: 1rem 2rem;
+}
+
+.link-order {
+  display: block;
+  margin: 1.5rem 0;
+  padding: 1rem 2rem;
+}

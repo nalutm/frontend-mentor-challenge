@@ -8,8 +8,14 @@
   - [3-column preview card component](#3-column-preview-card-component)
     - [Screenshot](#screenshot)
     - [Links](#links)
-    - [My process](#my-process)
-      - [Built with](#built-with)
+  - [Four card feature section](#four-card-feature-section)
+    - [Screenshot](#screenshot-1)
+    - [Links](#links-1)
+  - [Order summary card solution](#order-summary-card-solution)
+    - [Screenshot](#screenshot-1)
+    - [Links](#links-1)
+- [My process](#my-process)
+  - [Built with](#built-with)
 - [Author](#author)
   
 
@@ -33,14 +39,6 @@ The users should be able to:
 - [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/3-column-preview-card-component)
 - [Live Site URL](https://frontend-mentor-challenge-pi.vercel.app/)
 
-#### My process
-
-##### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
 
 ### Four card feature section
 
@@ -59,9 +57,20 @@ Users should be able to:
 - [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/four-card-feature-section)
 - [Live Site URL](https://four-card-feature-section-seven-amber.vercel.app/)
 
-#### My process
 
-##### Built with
+### Order summary card solution
+#### Screenshot
+
+![image](./order-summary-solution/design/screenshot.png)
+
+#### Links
+
+- [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/order-summary-solution)
+- [Live Site URL](https://frontend-mentor-challenge-pi.vercel.app/)
+
+## My process
+
+### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties

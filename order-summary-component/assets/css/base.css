@@ -1,0 +1,33 @@
+@import url(_reset.css);
+@import url(_variables.css);
+@import url(./card/_card.css);
+@import url(./card/_card-img.css);
+@import url(./card/_card-text.css);
+@import url(./card/_card-plan.css);
+@import url(./card/_card-payment.css);
+@import url(_footer.css);
+
+body {
+  background: var(--background) url(../images/pattern-background-mobile.svg) no-repeat;
+  font-family: var(--font-text);
+  font-weight: 500;
+}
+
+img {
+  display: block;
+  max-width:100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+@media screen and (min-width: 1024px) {
+  body {
+    background: var(--background) url(../images/pattern-background-desktop.svg) no-repeat;
+  }
+}

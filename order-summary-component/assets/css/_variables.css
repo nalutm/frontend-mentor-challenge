@@ -1,0 +1,13 @@
+:root {
+  --background: hsl(225, 100%, 94%);
+  --blue: hsl(212, 86%, 64%);
+  --button: hsl(245, 75%, 52%);
+  --dark--blue: hsl(223, 47%, 23%);
+  --grayish-blue: hsl(229, 6%, 66%);
+  --plan:  hsl(225, 100%, 98%);
+  --shadow: hsla(224, 23%, 55%, 0.25);
+  --soft-blue: hsl(224, 23%, 55%);
+  --white: #fff;
+
+  --font-text: 'Red Hat Display', sans-serif;
+}

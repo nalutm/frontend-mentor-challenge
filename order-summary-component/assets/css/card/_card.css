@@ -1,0 +1,15 @@
+.card {
+  background: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 20px 20px var(--shadow);
+  min-height: 650px;
+  margin: 10vh auto;
+  max-width: 450px;
+}
+
+@media screen and (min-width: 1024px) {
+  .card {
+    max-width: 400px;
+    min-height: 550px;
+  }
+}

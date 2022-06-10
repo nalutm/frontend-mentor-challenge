@@ -1,0 +1,16 @@
+.card__text {
+  padding: 2rem;
+  text-align: center;
+}
+
+.title {
+  color: var(--dark--blue);
+  font-weight: 900;
+  font-size: 1.3rem;
+}
+
+.text {
+  color: var(--soft-blue);
+  line-height: 1.5rem;
+  margin: 2rem 2rem 0;
+}
