@@ -8,12 +8,18 @@
   - [3-column preview card component](#3-column-preview-card-component)
     - [Screenshot](#screenshot)
     - [Links](#links)
+
   - [Four card feature section](#four-card-feature-section)
     - [Screenshot](#screenshot-1)
     - [Links](#links-1)
+
   - [Order summary card solution](#order-summary-card-solution)
     - [Screenshot](#screenshot-1)
     - [Links](#links-1)
+    
+  - [ntf-preview-card-component](#nft-preview-card-component)
+    - [Screenshot](#screenshot-3)
+    - [Links](#links-3)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -60,6 +66,12 @@ Users should be able to:
 
 ### Order summary card solution
 
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+Users should be able to:
+
+- See hover states for interactive elements
+
 #### Screenshot
 
 <div align="center">
@@ -71,6 +83,28 @@ Users should be able to:
 
 - [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/order-summary-component)
 - [Live Site URL](https://frontend-mentor-challenge-tan.vercel.app/)
+
+### NFT preview card component
+
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+Users should be able to:
+
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
+
+#### Screenshot
+
+<div align="center">
+  <img src="./ntf-preview-card-component/design/screenshot.jpeg" alt="Screenshot solution design mobile">
+  <img src="./ntf-preview-card-component/design/screenshot-active.jpeg" alt="Screenshot solution design mobile active">
+</div>
+
+
+#### Links
+
+- [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/ntf-preview-card-component)
+- [Live Site URL]()
 
 ## My process
 

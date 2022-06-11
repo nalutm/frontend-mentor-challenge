@@ -1,0 +1,13 @@
+:root {
+  --card-bg: hsl(216, 50%, 16%);
+  --cyan: hsl(178, 100%, 50%);
+  --grayish-blue: hsl(229, 6%, 66%);
+  --img-hover: hsla(178, 100%, 50%, .5); 
+  --line: hsl(215, 32%, 27%);
+  --main-bg: hsl(217, 54%, 11%);
+  --text-color: hsl(215, 51%, 70%);
+  --white: hsl(0, 0%, 100%);
+
+  --font: 18px;
+  --text-font: 'Outfit', sans-serif;
+}

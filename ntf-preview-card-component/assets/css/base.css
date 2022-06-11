@@ -1,0 +1,19 @@
+@import url(_reset.css);
+@import url(_variables.css);
+@import url(./card/_card.css);
+@import url(./card/_card.css);
+@import url(./card/_card-img.css);
+@import url(./card/_card-text.css);
+@import url(./card/_card-footer.css);
+@import url(./_footer.css);
+
+
+body {
+  background: var(--main-bg);
+  color: var(--text-color);
+  font-family: var(--text-font);
+}
+
+a {
+  text-decoration: none;
+}

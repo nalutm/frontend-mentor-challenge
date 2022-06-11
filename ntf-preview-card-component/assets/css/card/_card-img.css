@@ -1,0 +1,43 @@
+.card-img {
+  height: 250px;
+  width: 100%;
+  position: relative;
+  transition: all 200ms ease-in-out;
+}
+
+.card-img-overlap-view {
+  background-color: var(--img-hover);
+  border-radius: 10px;
+  display: none;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  z-index: 9;
+  width: 100%;
+}
+
+.visualization {
+  background: url(../../images/icon-view.svg) no-repeat center;
+  height: 25%;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 25%;
+  z-index: 10;
+}
+
+.card-img:hover .card-img-overlap-view {
+  cursor: pointer;
+  display: block;
+}
+
+.brand-img {
+  background: url(../../images/image-equilibrium.jpg) no-repeat center / cover;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+}
