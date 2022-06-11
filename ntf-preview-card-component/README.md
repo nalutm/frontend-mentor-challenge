@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/ntf-preview-card-component)
-- [Live Site URL]()
+- [Live Site URL](https://whimsical-gumption-997c42.netlify.app/)
 
 ## My process
 

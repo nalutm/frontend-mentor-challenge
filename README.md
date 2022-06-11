@@ -96,15 +96,15 @@ Users should be able to:
 #### Screenshot
 
 <div align="center">
-  <img src="./ntf-preview-card-component/design/screenshot.jpeg" alt="Screenshot solution design mobile">
-  <img src="./ntf-preview-card-component/design/screenshot-active.jpeg" alt="Screenshot solution design mobile active">
+  <img src="./ntf-preview-card-component/design/screenshot.png" alt="Screenshot solution design mobile">
+  <img src="./ntf-preview-card-component/design/screenshot-active.png" alt="Screenshot solution design mobile active">
 </div>
 
 
 #### Links
 
 - [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/ntf-preview-card-component)
-- [Live Site URL]()
+- [Live Site URL](https://whimsical-gumption-997c42.netlify.app/)
 
 ## My process
 
