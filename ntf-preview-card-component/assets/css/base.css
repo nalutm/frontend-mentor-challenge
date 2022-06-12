@@ -1,5 +1,6 @@
 @import url(_reset.css);
 @import url(_variables.css);
+@import url(_container.css);
 @import url(./card/_card.css);
 @import url(./card/_card.css);
 @import url(./card/_card-img.css);
