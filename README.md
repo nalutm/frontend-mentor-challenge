@@ -75,7 +75,7 @@ Users should be able to:
 #### Screenshot
 
 <div align="center">
-  <img src="./order-summary-component/design/screenshot.jpeg" alt="Screenshot solução design mobile">
+  <img src="./order-summary-component/design/screenshot.jpg" alt="Screenshot solução design mobile">
 </div>
 
 

@@ -23,7 +23,7 @@ Users should be able to:
 ### Screenshot
 
 <div align="center">
-  <img src="./design/screenshot.jpeg" alt="Screenshot solução design mobile">
+  <img src="./design/screenshot.jpg" alt="Screenshot solução design mobile">
 </div>
 
 ### Links
