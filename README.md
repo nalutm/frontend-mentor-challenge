@@ -48,7 +48,7 @@ The users should be able to:
 
 ### Four card feature section
 
-This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). 
 
 Users should be able to:
 
@@ -66,7 +66,7 @@ Users should be able to:
 
 ### Order summary card solution
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). 
 
 Users should be able to:
 
@@ -86,7 +86,7 @@ Users should be able to:
 
 ### NFT preview card component
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). 
 
 Users should be able to:
 
@@ -100,11 +100,34 @@ Users should be able to:
   <img src="./ntf-preview-card-component/design/screenshot-active.png" alt="Screenshot solution design mobile active">
 </div>
 
-
 #### Links
 
 - [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/ntf-preview-card-component)
 - [Live Site URL](https://whimsical-gumption-997c42.netlify.app/)
+
+### Interactive rating component solution
+
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). 
+
+Users should be able to:
+
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Select and submit a number rating
+- See the "Thank you" card state after submitting a rating
+
+#### Screenshot
+
+<!-- <div align="center">
+  <img src="./interactive-rating-component/design/screenshot.png" alt="Screenshot solution design mobile">
+  <img src="./interactive-rating-component/design/screenshot-active.png" alt="Screenshot solution design mobile active">
+</div> -->
+
+
+#### Links
+
+- [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/interactive-rating-component)
+<!-- - [Live Site URL]() -->
 
 ## My process
 
@@ -115,6 +138,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- JS
 
 ## Author
 
