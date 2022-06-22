@@ -1,0 +1,81 @@
+.rating__container {
+  background-color: var(--card-background);
+  border-radius: 10px;
+  box-sizing: border-box;
+  left: 50%;
+  width: 300px;
+  min-height: 300px;
+  padding: 1rem;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.img {
+  background: var(--btn) url(../images/icon-star.svg) no-repeat center;
+  border-radius: 100%;
+  box-sizing: border-box;
+  height: 35px;
+  padding: 1rem;
+  width: 35px;
+}
+
+.rating__title {
+  color: var(--white);
+  font-weight: 700;
+  font-size: 1.35rem;
+  margin: 1.4rem 0 1rem;
+}
+
+.rating__text {
+  line-height: 1.15rem;
+  font-size: 13px;
+}
+
+.rating__grades {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin: 1.5rem 0;
+}
+
+.rating__grade {
+  background: var(--btn);
+  border-radius: 100%;
+  color: var(--light-grey);
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 700;
+  height: 12px;
+  padding: .8rem;
+  text-align: center;
+  width: 12px;
+}
+
+.rating__grade:hover {
+  background: var(--light-grey);
+  color: var(--white);
+}
+
+.rating__grade:active {
+  background-color: var(--orange);
+}
+
+.btn {
+  background-color: var(--orange);
+  border-radius: 50px;
+  border: none;
+  color: var(--white);
+  cursor: pointer;
+  font-weight: 700;
+  letter-spacing: .1rem;
+  margin-bottom: 1rem;
+  padding: .75rem;
+  text-transform: uppercase;
+  width: 100%;
+}
+
+.btn:hover {
+  background-color: var(--white);
+  color: var(--orange);
+}

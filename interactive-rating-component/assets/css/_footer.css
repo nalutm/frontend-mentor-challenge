@@ -1,0 +1,21 @@
+.footer {
+  color: inherit;
+  font-size: 12px;
+  text-align: center;
+  padding: 20px 0;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+}
+
+.footer__link {
+  color: var(--orange);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.footer__link:hover {
+  color: var(--white);
+}
