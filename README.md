@@ -133,8 +133,8 @@ Users should be able to:
 
 #### Mobile
 <div align="center">
-  <img src="./interactive-rating-component/docs/screenshot-mobile.jpg" alt="Screenshot solution mobile design">
-  <img src="./interactive-rating-component/docs/screenshot-mobile-feedback.jpg" alt="Screenshot solution mobile feedback design">
+  <img src="./interactive-rating-component/docs/screenshot-mobile.jpeg" alt="Screenshot solution mobile design">
+  <img src="./interactive-rating-component/docs/screenshot-mobile-feedback.jpeg" alt="Screenshot solution mobile feedback design">
 </div>
 
 #### Desktop
