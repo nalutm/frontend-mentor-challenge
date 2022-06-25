@@ -27,8 +27,8 @@ Users should be able to:
 
 #### Mobile
 <div align="center">
-  <img src="./docs/screenshot.png" alt="Screenshot solution mobile design">
-  <img src="./docs/screenshot-active.png" alt="Screenshot solution mobile active design">
+  <img src="./docs/screenshot-mobile.png" alt="Screenshot solution mobile design">
+  <img src="./docs/screenshot-mobile-active.png" alt="Screenshot solution mobile active design">
 </div>
 
 #### Desktop
