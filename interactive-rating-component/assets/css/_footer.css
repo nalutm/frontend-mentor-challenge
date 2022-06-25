@@ -14,6 +14,7 @@
   color: var(--orange);
   font-weight: 600;
   text-decoration: none;
+  transition: all .25s ease-in-out; 
 }
 
 .footer__link:hover {

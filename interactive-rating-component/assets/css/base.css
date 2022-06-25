@@ -1,6 +1,7 @@
 @import url(./_reset.css);
 @import url(./_variables.css);
-@import url(./_rating-card.css);
+@import url(./_card.css);
+@import url(./_thanks-card.css);
 @import url(./_footer.css);
 
 body {
