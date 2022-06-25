@@ -1,0 +1,12 @@
+:root {
+  --bg-gradient-init: hsl(273, 75%, 66%);
+  --bg-gradient-end: hsl(240, 73%, 65%);
+  --dark-blue: hsl(238, 29%, 16%);
+  --dividers: hsl(240, 5%, 91%);
+  --soft-red: hsl(14, 88%, 65%);
+  --text-dark: hsl(237, 12%, 33%);
+  --text-light:  hsl(240, 6%, 50%);
+  --white: #fff;
+
+  --font: 'Kumbh Sans', sans-serif;
+}

@@ -5,11 +5,12 @@
 ## Table of contents
 
 - [The chalanges](#the-challanges)
-  - [3-column preview card component](#3-column-preview-card-component)
+
+  - [3-column preview card component solution](#3-column-preview-card-component)
     - [Screenshot](#screenshot)
     - [Links](#links)
 
-  - [Four card feature section](#four-card-feature-section)
+  - [Four card feature section solution](#four-card-feature-section)
     - [Screenshot](#screenshot-1)
     - [Links](#links-1)
 
@@ -17,17 +18,23 @@
     - [Screenshot](#screenshot-1)
     - [Links](#links-1)
     
-  - [ntf-preview-card-component](#nft-preview-card-component)
+  - [NFT preview card component solution](#nft-preview-card-component)
     - [Screenshot](#screenshot-3)
     - [Links](#links-3)
+
+  - [FAQ accordion card solution](#faq-accordion-card-solution)
+    - [Screenshot](#screenshot-5)
+    - [Links](#links-5)
+
 - [My process](#my-process)
   - [Built with](#built-with)
+  
 - [Author](#author)
   
 
 ## The challenges
 
-### 3-column preview card component
+### 3-column preview card component solution
 
 My first challenge was to build out this [3-column preview card component](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-) and get it looking as close to the design as possible.
 
@@ -46,7 +53,7 @@ The users should be able to:
 - [Live Site URL](https://frontend-mentor-challenge-pi.vercel.app/)
 
 
-### Four card feature section
+### Four card feature section solution
 
 This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). 
 
@@ -78,49 +85,21 @@ Users should be able to:
   <img src="./order-summary-component/design/screenshot.jpg" alt="Screenshot solução design mobile">
 </div>
 
-
 #### Links
 
 - [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/order-summary-component)
 - [Live Site URL](https://frontend-mentor-challenge-tan.vercel.app/)
 
-### NFT preview card component
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). 
+### FAQ accordion card solution
 
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
-
-#### Screenshot
-
-<div align="center">
-  <img src="./ntf-preview-card-component/design/screenshot.png" alt="Screenshot solution design mobile">
-  <img src="./ntf-preview-card-component/design/screenshot-active.png" alt="Screenshot solution design mobile active">
-</div>
-
-#### Links
-
-- [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/ntf-preview-card-component)
-- [Live Site URL](https://whimsical-gumption-997c42.netlify.app/)
-
-### Interactive rating component solution
-
-This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). 
-
-Users should be able to:
-
-- View the optimal layout for the app depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Select and submit a number rating
-- See the "Thank you" card state after submitting a rating
+This is a solution to the [FAQ accordion card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam).  
 
 #### Screenshot
 
 <!-- <div align="center">
-  <img src="./interactive-rating-component/design/screenshot.png" alt="Screenshot solution design mobile">
-  <img src="./interactive-rating-component/design/screenshot-active.png" alt="Screenshot solution design mobile active">
+  <img src="" alt="Screenshot solution design mobile">
+  <img src="" alt="Screenshot solution design mobile active">
 </div> -->
 
 

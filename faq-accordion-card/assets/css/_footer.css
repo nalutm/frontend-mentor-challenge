@@ -1,0 +1,28 @@
+.footer {
+  color: var(--dividers);
+  font-size: 12px;
+  text-align: center;
+  margin-top: 20px;
+  position: absolute;
+  top: 90%;
+  width: 100%; 
+}
+
+.footer__link {
+  color: var(--dividers);
+  font-weight: 600;
+  padding: 0 .5em;
+  text-decoration: none;
+  transition: all .2s ease-in-out; 
+}
+
+.footer__link:hover {
+  background: var(--white);
+  border-radius: 5px;
+  color: var(--soft-red);
+}
+
+.footer__text {
+  display: block;
+  text-align: center;
+} 

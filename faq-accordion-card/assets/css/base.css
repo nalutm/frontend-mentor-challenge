@@ -1,0 +1,11 @@
+@import url(_reset.css);
+@import url(_variables.css);
+@import url(_faq.css);
+@import url(_footer.css);
+
+body {
+  background: linear-gradient(to bottom, var(--bg-gradient-init), var(--bg-gradient-end));
+  font-family: var(--font);
+  font-size: 12px;
+  height: 100vh;
+}

@@ -1,0 +1,160 @@
+.faq {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: auto;
+  margin: 110px auto 0; 
+  padding: 110px 18px 36px;
+  position: relative;
+  width: 80vw;
+}
+
+.img-mobile {
+  background: url(../images/illustration-woman-online-mobile.svg) no-repeat;
+  height: 150px;
+  left: 50%;
+  position: absolute;
+  top: 0;
+  transform: translate(-50%, -60%);
+  z-index: 10;
+  width: 200px;
+}
+
+.img-box-desktop, 
+.img-desktop {
+  display: none;
+}
+
+.title {
+  color: var(--dark-blue);
+  font-size: 2em;
+  font-weight: 700;
+  margin-bottom: 2em;
+  text-align: center;
+  text-transform: uppercase; 
+}
+
+.wrapper {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  margin: 1.2em 0 1.2em;
+}
+
+.faq__question {
+  color: var(--text-dark);
+  cursor: pointer;
+  font-size: 1em;
+  transition: all .2s ease-in-out;
+}
+
+.faq__question:hover {
+  color: var(--soft-red);
+}
+
+[data-arrow] {
+  cursor: pointer;
+}
+
+[data-arrow].active {
+  transform: rotate(180deg);
+}
+
+.faq__answer {
+  animation: hide .5s forwards;
+  color: var(--text-light);
+  display: block;
+  margin-bottom: 1em;
+}
+
+.inactive {
+  display: none;
+}
+
+.divider {
+  border-color: var(--dividers);
+  opacity: .3;
+}
+
+@keyframes hide {
+  from {
+    max-height: 100px;
+    opacity: 1;
+  }
+
+  to {
+    max-height: 0;
+    opacity: 0;
+  }
+}
+
+[data-faq="question"].active {
+  font-weight: 700;
+}
+
+[data-faq="answer"].active {
+  animation: slideDown .5s forwards;
+  display: block;
+}
+
+@keyframes slideDown {
+  from {
+    max-height: 0;
+    opacity: 0;
+  }
+
+  to {
+    max-height: 100px;
+    opacity: 1;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .faq {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 36px 36px 0 0;
+    width: 60vw;
+    margin: 0; 
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .img-mobile {
+    display: none;
+  }
+
+   .title {
+    text-align: left;
+  }
+
+  .img-desktop {
+    background: url(../images/illustration-woman-online-desktop.svg) -30px top / 270px 350px no-repeat;
+    display: block;
+    height: 60vh;
+    position: relative;
+  }
+
+  .img-box-desktop {
+    background: url(../images/illustration-box-desktop.svg) top no-repeat;
+    display: block;
+    height: 150px;
+    left: -74px;
+    position: absolute;
+    top: 163px;
+    z-index: 100;
+    width: 150px;
+  }
+
+  .faq__text {
+    grid-column: 2;
+    width: 350px;
+  }
+}
+
+@media screen and (min-width: 1300px) {
+  .img-desktop {
+    background: url(../images/illustration-woman-online-desktop.svg) -50px top / 400px 350px no-repeat;
+  }
+}
