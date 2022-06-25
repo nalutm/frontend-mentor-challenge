@@ -1,6 +1,7 @@
 .faq {
   background-color: var(--white);
   border-radius: 20px;
+  min-height: 400px;
   height: auto;
   margin: 110px auto 0; 
   padding: 110px 18px 36px;
@@ -37,7 +38,7 @@
   align-items: flex-start;
   display: flex;
   justify-content: space-between;
-  margin: 1.2em 0 1.2em;
+  margin: 2em 0 1.2em;
 }
 
 .faq__question {
