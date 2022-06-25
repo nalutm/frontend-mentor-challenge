@@ -7,6 +7,8 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+    - [Mobile](#mobile)
+    - [Desktop](#desktop)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -24,7 +26,18 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+#### Mobile
+<div align="center">
+  <img src="./docs/screenshot-mobile.jpg" alt="Screenshot solution design mobile">
+</div>
+
+#### Desktop
+![Screenshot solution design desktop](./docs/screenshot-desktop.png)
+
+#### Links
+
+- [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/faq-accordion-card)
+- [Live Site URL](http://127.0.0.1:5501/faq-accordion-card/)
 
 
 ## My process

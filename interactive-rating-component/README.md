@@ -9,6 +9,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+    - [Mobile](#mobile)
+    - [Desktop](#desktop)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -29,12 +31,19 @@ Users should be able to:
 
 ### Screenshot
 
-![]()
+#### Mobile
+<div align="center">
+  <img src="./docs/screenshot-mobile.png" alt="Screenshot solution design mobile">
+  <img src="./docs/screenshot-mobile-feedback.png" alt="Screenshot solution design mobile feedback screen">
+</div>
+
+#### Desktop
+![Screenshot solution design desktop](./docs/screenshot-desktop.png)
 
 ### Links
 
-- [Solution URL]()
-- [Live Site URL]()
+- [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/interactive-rating-component)
+- [Live Site URL](https://gilded-cobbler-999935.netlify.app/) 
 
 ## My process
 
@@ -52,30 +61,3 @@ Users should be able to:
 
 - Frontend Mentor - [@nalutm](https://www.frontendmentor.io/profile/nalutm)
 - Linkedin - [Nayara Luiza Moraes](https://www.linkedin.com/in/nayara-luiza-moraes-9a9382b5/)
-
-<!-- 
-
-  - [Interactive rating component solution](#interactive-rating-component-solution)
-    - [Screenshot](#screenshot-4)
-    - [Links](#links-4)
-
-### NFT preview card component solution
-
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). 
-
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
-
-#### Screenshot
-
-<div align="center">
-  <img src="./ntf-preview-card-component/design/screenshot.png" alt="Screenshot solution design mobile">
-  <img src="./ntf-preview-card-component/design/screenshot-active.png" alt="Screenshot solution design mobile active">
-</div>
-
-#### Links
-
-- [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/ntf-preview-card-component)
-- [Live Site URL](https://whimsical-gumption-997c42.netlify.app/) -->

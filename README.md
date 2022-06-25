@@ -15,12 +15,16 @@
     - [Links](#links-1)
 
   - [Order summary card solution](#order-summary-card-solution)
-    - [Screenshot](#screenshot-1)
-    - [Links](#links-1)
+    - [Screenshot](#screenshot-2)
+    - [Links](#links-2)
     
   - [NFT preview card component solution](#nft-preview-card-component)
     - [Screenshot](#screenshot-3)
     - [Links](#links-3)
+
+  - [Interactive rating component solution](#interactive-rating-component-solution)
+    - [Screenshot](#screenshot-4)
+    - [Links](#links-4)
 
   - [FAQ accordion card solution](#faq-accordion-card-solution)
     - [Screenshot](#screenshot-5)
@@ -91,22 +95,79 @@ Users should be able to:
 - [Live Site URL](https://frontend-mentor-challenge-tan.vercel.app/)
 
 
-### FAQ accordion card solution
+### NFT preview card component solution
 
-This is a solution to the [FAQ accordion card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam).  
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). 
+
+Users should be able to:
+
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
 
 #### Screenshot
 
-<!-- <div align="center">
-  <img src="" alt="Screenshot solution design mobile">
-  <img src="" alt="Screenshot solution design mobile active">
-</div> -->
+<div align="center">
+  <img src="./ntf-preview-card-component/design/screenshot.png" alt="Screenshot solution design mobile">
+  <img src="./ntf-preview-card-component/design/screenshot-active.png" alt="Screenshot solution design mobile active">
+</div>
 
+#### Links
+
+- [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/ntf-preview-card-component)
+- [Live Site URL](https://whimsical-gumption-997c42.netlify.app/) -->
+
+### Interactive rating component solution
+
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI).
+
+
+Users should be able to:
+
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Select and submit a number rating
+- See the "Thank you" card state after submitting a rating
+
+
+#### Screenshot
+
+#### Mobile
+<div align="center">
+  <img src="./interactive-rating-component/docs/screenshot-mobile.jpg" alt="Screenshot solution mobile design">
+  <img src="./interactive-rating-component/docs/screenshot-mobile-feedback.jpg" alt="Screenshot solution mobile feedback design">
+</div>
+
+#### Desktop
+![Screenshot solution desktop design](./interactive-rating-component/docs/screenshot-desktop.png)
 
 #### Links
 
 - [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/interactive-rating-component)
-<!-- - [Live Site URL]() -->
+- [Live Site URL](https://gilded-cobbler-999935.netlify.app/) 
+
+### FAQ accordion card solution
+
+This is a solution to the [FAQ accordion card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam).  
+
+Users should be able to:
+
+- View the optimal layout for the component depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Hide/Show the answer to a question when the question is clicked
+
+#### Screenshot
+
+#### Mobile
+<div align="center">
+  <img src="./faq-accordion-card/docs/screenshot-mobile.jpg" alt="Screenshot solution mobile design">
+</div>
+
+#### Desktop
+![Screenshot soution desktop design](./faq-accordion-card/docs/screenshot-desktop.png)
+#### Links
+
+- [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/faq-accordion-card)
+- [Live Site URL](http://127.0.0.1:5501/faq-accordion-card/)
 
 ## My process
 
