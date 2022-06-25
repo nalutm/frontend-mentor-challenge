@@ -2,12 +2,12 @@
   box-sizing: border-box;
   color: inherit;
   font-size: 12px;
-  left: 50%;
+  left: 50%; 
   padding: 1rem 0; 
   position: absolute;
   text-align: center;
-  top: calc(50% + 247.2px);
-  transform: translate(-50%);
+  top: calc(50% + 247.5px); 
+  transform: translate(-50%); 
   width: 300px;
 }
 
