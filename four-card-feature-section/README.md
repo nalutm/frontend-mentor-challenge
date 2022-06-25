@@ -1,12 +1,14 @@
 # Frontend Mentor | Four card feature section
 
-This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). 
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+    - [Mobile](#mobile)
+    - [Desktop](#desktop)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -22,7 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![image](./design/screenshot.png)
+#### Mobile
+<div align="center">
+  <img src="./docs/screenshot-mobile.jpeg" alt="Screenshot mobile design">
+</div> 
+
+#### Desktop
+![Screenshot desktop design](./docs/screenshot-desktop.png)
 
 ### Links
 

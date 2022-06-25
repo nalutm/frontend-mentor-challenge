@@ -7,6 +7,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+    - [Mobile](#mobile)
+    - [Desktop](#desktop)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -23,7 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![image](./design/screenshot.png)
+#### Mobile
+<div align="center">
+  <img src="./docs/screenshot-mobile.jpeg" alt="Screenshot mobile design">
+</div>
+
+#### Desktop
+![Screenshot desktop design](./docs/screenshot-desktop.png)
 
 ### Links
 

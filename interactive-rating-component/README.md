@@ -33,12 +33,12 @@ Users should be able to:
 
 #### Mobile
 <div align="center">
-  <img src="./docs/screenshot-mobile.jpeg" alt="Screenshot solution design mobile">
-  <img src="./docs/screenshot-mobile-feedback.jpeg" alt="Screenshot solution design mobile feedback screen">
+  <img src="./docs/screenshot-mobile.jpeg" alt="Screenshot mobile design">
+  <img src="./docs/screenshot-mobile-feedback.jpeg" alt="Screenshot mobile feedback screen design">
 </div>
 
 #### Desktop
-![Screenshot solution design desktop](./docs/screenshot-desktop.png)
+![Screenshot desktop design](./docs/screenshot-desktop.png)
 
 ### Links
 

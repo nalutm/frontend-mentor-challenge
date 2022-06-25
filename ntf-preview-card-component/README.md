@@ -1,12 +1,14 @@
 # Frontend Mentor | NFT preview card component solution
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). 
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+    - [Mobile](#mobile)
+    - [Desktop](#desktop)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -23,10 +25,14 @@ Users should be able to:
 
 ### Screenshot
 
+#### Mobile
 <div align="center">
-  <img src="./design/screenshot.png" alt="Screenshot solution design mobile">
-  <img src="./design/screenshot-active.png" alt="Screenshot solution design mobile active">
+  <img src="./docs/screenshot.png" alt="Screenshot solution mobile design">
+  <img src="./docs/screenshot-active.png" alt="Screenshot solution mobile active design">
 </div>
+
+#### Desktop
+![Screenshot desktop design](./docs/screenshot-desktop.png)
 
 ### Links
 

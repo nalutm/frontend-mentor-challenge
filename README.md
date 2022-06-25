@@ -49,7 +49,13 @@ The users should be able to:
 
 #### Screenshot
 
-![image](./3-column-preview-card-component/design/screenshot.png)
+#### Mobile
+<div align="center">
+  <img src="./3-column-preview-card-component/docs/screenshot-mobile.jpeg" alt="Screenshot mobile design">
+</div>
+
+#### Desktop
+![Screenshot desktop design](./3-column-preview-card-component/docs/screenshot-desktop.png)
 
 #### Links
 
@@ -67,7 +73,14 @@ Users should be able to:
 
 #### Screenshot
 
-![image](./four-card-feature-section/design/screenshot.png)
+#### Mobile
+<div align="center">
+  <img src="./four-card-feature-section/docs/screenshot-mobile.jpeg" alt="Screenshot mobile design">
+</div>
+
+#### Desktop
+
+![Screenshot desktop design](./four-card-feature-section/docs/screenshot-desktop.png)
 
 #### Links
 
@@ -85,9 +98,14 @@ Users should be able to:
 
 #### Screenshot
 
+#### Mobile
 <div align="center">
-  <img src="./order-summary-component/design/screenshot.jpg" alt="Screenshot solução design mobile">
+  <img src="./order-summary-component/docs/screenshot-mobile.jpeg" alt="Screenshot mobile design">
 </div>
+
+#### Desktop
+
+![Screenshot desktop design](./order-summary-component/docs/screenshot-desktop.png)
 
 #### Links
 
@@ -106,10 +124,16 @@ Users should be able to:
 
 #### Screenshot
 
+#### Mobile
 <div align="center">
-  <img src="./ntf-preview-card-component/design/screenshot.png" alt="Screenshot solution design mobile">
-  <img src="./ntf-preview-card-component/design/screenshot-active.png" alt="Screenshot solution design mobile active">
+  <img src="./ntf-preview-card-component/docs/screenshot-mobile.png" alt="Screenshot mobile design">
+  <img src="./ntf-preview-card-component/docs/screenshot-mobile-active.png" alt="Screenshot mobile active design">
 </div>
+
+#### Desktop
+
+![Screenshot desktop design](./ntf-preview-card-component/docs/screenshot-desktop.png)
+
 
 #### Links
 

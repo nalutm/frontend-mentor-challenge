@@ -28,11 +28,11 @@ Users should be able to:
 
 #### Mobile
 <div align="center">
-  <img src="./docs/screenshot-mobile.jpg" alt="Screenshot solution design mobile">
+  <img src="./docs/screenshot-mobile.jpg" alt="Screenshot mobile design ">
 </div>
 
 #### Desktop
-![Screenshot solution design desktop](./docs/screenshot-desktop.png)
+![Screenshot desktop design](./docs/screenshot-desktop.png)
 
 #### Links
 
