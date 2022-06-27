@@ -4,9 +4,9 @@ const $arrow = document.querySelectorAll('[data-arrow]');
 
 if ($questions && $answers && $arrow) {
   const active = 'active';
-  const addClass = element => element.classList.add(active)
-  const toggleClass = element => element.classList.toggle(active)
-  const addEvent = (element, e, cb) => element.addEventListener(e, cb)
+  const addClass = element => element.classList.add(active);
+  const toggleClass = element => element.classList.toggle(active);
+  const addEvent = (element, e, cb) => element.addEventListener(e, cb);
   const arrayInteraction = element => 
     element.forEach((question, index) => 
       addEvent(question, 'click', () => handleClick(index))
