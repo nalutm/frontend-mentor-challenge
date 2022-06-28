@@ -37,7 +37,7 @@ Users should be able to:
 #### Links
 
 - [Code URL](https://github.com/nalutm/frontend-mentor-challenge/tree/main/faq-accordion-card)
-- [Live Site URL](http://127.0.0.1:5501/faq-accordion-card/)
+- [Live Site URL](https://legendary-pegasus-7e3563.netlify.app/)
 
 
 ## My process
