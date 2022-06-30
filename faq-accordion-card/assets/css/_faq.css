@@ -148,7 +148,7 @@
     width: 150px;
   }
 
-  .faq__text {
+  .faq__list {
     grid-column: 2;
     width: 350px;
   }

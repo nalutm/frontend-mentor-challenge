@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
     toggleClass($questions[index]);
     toggleClass($arrow[index]);
     toggleClass($answers[index]);
-      $answers[index].classList.remove('inactive');
+    $answers[index].classList.remove('inactive');
   }
 
   $answers.forEach(answer => answer.classList.add('inactive'));
